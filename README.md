@@ -2,7 +2,7 @@
 - 👀 I’m interested in red teaming competitions, Cybersecurity & AI ...
 - 🌱 I’m currently learning --Rust
 - 💞️ I’m looking to collaborate on opensource contributions
-- 📫 How to reach me sendamarai@gmail.com
+- 📫 How to reach me senda@nbhd.ai
 - 😄 Pronouns: She
 - ⚡ Fun fact: Every fact
 
